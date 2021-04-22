@@ -1,0 +1,19 @@
+Primeiro eu criei o repositório direto no gitHub e fiz um clone dele utilizando o comando 
+“git clone https://github.com/EduardoLopess/AvaliacaoAp1.git”, para fazer o clone do repositório remoto para local.
+ 
+Na pasta onde foi feito o clone do repositório coloquei os arquivos para serem enviados, usei um “git status” para listar todos os arquivos criados ou modificados no repositório local.
+
+Em seguida um “git add .” para adicionar todos os arquivos e alterações a serem enviados. 
+
+Depois um “git commit -m “ap1” ” coloca todos os arquivos em uma sacola para ser enviado. 
+
+Por fim um “git push” para mandar a sacola commitada pro repositório remoto.
+
+
+
+
+Para enviar o novo arquivo de texto para repositório remoto utilizei os mesmos comandos exceto o comando de clone.
+“git status”
+“git add .”
+“git commit -m “ap1_1” ”
+“git push”
