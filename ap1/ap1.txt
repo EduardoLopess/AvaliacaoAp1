@@ -17,3 +17,7 @@ Para enviar o novo arquivo de texto para repositório remoto utilizei os mesmos 
 “git add .”
 “git commit -m “ap1_1” ”
 “git push”
+
+
+
+teste teste 2
